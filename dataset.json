@@ -49,7 +49,38 @@
     "etiqueta":"gato",
     "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato10.jpg"
   },
+  {
+    "nombre":"gato11.jpg",
+    "etiqueta":"gato",
+    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato11.jpg"
+  },
+  {
+    "nombre":"gato12.jpg",
+    "etiqueta":"gato",
+    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato12.jpg"
+  },
+    {
+    "nombre":"gato13.jpeg",
+    "etiqueta":"gato",
+    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato13.jpeg"
+  },
+  {
+    "nombre":"gato14.jpg",
+    "etiqueta":"gato",
+    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato14.jpg"
+  },
+  {
+    "nombre":"gato15.jpg",
+    "etiqueta":"gato",
+    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato15.jpg"
+  },
+  {
+    "nombre":"gato16.jpg",
+    "etiqueta":"gato",
+    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato16.jpg"
+  },
 
+  
   {
     "nombre":"perro1.jpg",
     "etiqueta":"perro",
@@ -99,5 +130,35 @@
     "nombre":"perro10.jpg",
     "etiqueta":"perro",
     "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro10.jpg"
+  },
+  {
+    "nombre":"perro11.jpg",
+    "etiqueta":"perro",
+    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro11.jpg"
+  },
+  {
+    "nombre":"perro12.jpg",
+    "etiqueta":"perro",
+    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro12.jpg"
+  },
+  {
+    "nombre":"perro13.jpg",
+    "etiqueta":"perro",
+    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro13.jpg"
+  },
+  {
+    "nombre":"perro14.jpg",
+    "etiqueta":"perro",
+    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro14.jpg"
+  },
+  {
+    "nombre":"perro15.jpg",
+    "etiqueta":"perro",
+    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro15.jpg"
+  },
+  {
+    "nombre":"perro16.jpg",
+    "etiqueta":"perro",
+    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro16.jpg"
   }
 ]
