@@ -1,164 +1,162 @@
 [
   {
-    "nombre":"gato1.jpg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato1.jpg"
+    "nombre": "gato1.jpg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato1.jpg"
   },
   {
-    "nombre":"gato2.jpg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato2.jpg"
+    "nombre": "gato2.jpg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato2.jpg"
   },
   {
-    "nombre":"gato3.jpg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato3.jpg"
+    "nombre": "gato3.jpg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato3.jpg"
   },
   {
-    "nombre":"gato4.jpg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato4.jpg"
+    "nombre": "gato4.jpg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato4.jpg"
   },
   {
-    "nombre":"gato5.jpg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato5.jpg"
+    "nombre": "gato5.jpg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato5.jpg"
   },
   {
-    "nombre":"gato6.jpg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato6.jpg"
+    "nombre": "gato6.jpg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato6.jpg"
   },
   {
-    "nombre":"gato7.jpeg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato7.jpeg"
+    "nombre": "gato7.jpeg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato7.jpeg"
   },
   {
-    "nombre":"gato8.jpeg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato8.jpeg"
+    "nombre": "gato8.jpeg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato8.jpeg"
   },
   {
-    "nombre":"gato9.jpeg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato9.jpeg"
+    "nombre": "gato9.jpeg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato9.jpeg"
   },
   {
-    "nombre":"gato10.jpg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato10.jpg"
+    "nombre": "gato10.jpg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato10.jpg"
   },
   {
-    "nombre":"gato11.jpg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato11.jpg"
+    "nombre": "gato11.jpg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato11.jpg"
   },
   {
-    "nombre":"gato12.jpg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato12.jpg"
-  },
-    {
-    "nombre":"gato13.jpeg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato13.jpeg"
+    "nombre": "gato12.jpg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato12.jpg"
   },
   {
-    "nombre":"gato14.jpg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato14.jpg"
+    "nombre": "gato13.jpeg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato13.jpeg"
   },
   {
-    "nombre":"gato15.jpg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato15.jpg"
+    "nombre": "gato14.jpg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato14.jpg"
   },
   {
-    "nombre":"gato16.jpg",
-    "etiqueta":"gato",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato16.jpg"
-  },
-
-  
-  {
-    "nombre":"perro1.jpg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro1.jpg"
+    "nombre": "gato15.jpg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato15.jpg"
   },
   {
-    "nombre":"perro2.jpg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro2.jpg"
+    "nombre": "gato16.jpg",
+    "etiqueta": "gato",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/gato/gato16.jpg"
   },
   {
-    "nombre":"perro3.jpg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro3.jpg"
+    "nombre": "perro1.jpg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro1.jpg"
   },
   {
-    "nombre":"perro4.jpg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro4.jpg"
+    "nombre": "perro2.jpg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro2.jpg"
   },
   {
-    "nombre":"perro5.jpg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro5.jpg"
+    "nombre": "perro3.jpg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro3.jpg"
   },
   {
-    "nombre":"perro6.jpg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro6.jpg"
+    "nombre": "perro4.jpg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro4.jpg"
   },
   {
-    "nombre":"perro7.jpeg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro7.jpeg"
+    "nombre": "perro5.jpg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro5.jpg"
   },
   {
-    "nombre":"perro8.jpeg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro8.jpeg"
+    "nombre": "perro6.jpg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro6.jpg"
   },
   {
-    "nombre":"perro9.jpeg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro9.jpeg"
+    "nombre": "perro7.jpeg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro7.jpeg"
   },
   {
-    "nombre":"perro10.jpg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro10.jpg"
+    "nombre": "perro8.jpeg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro8.jpeg"
   },
   {
-    "nombre":"perro11.jpg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro11.jpg"
+    "nombre": "perro9.jpeg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro9.jpeg"
   },
   {
-    "nombre":"perro12.jpg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro12.jpg"
+    "nombre": "perro10.jpg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro10.jpg"
   },
   {
-    "nombre":"perro13.jpg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro13.jpg"
+    "nombre": "perro11.jpg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro11.jpg"
   },
   {
-    "nombre":"perro14.jpg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro14.jpg"
+    "nombre": "perro12.jpg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro12.jpg"
   },
   {
-    "nombre":"perro15.jpg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro15.jpg"
+    "nombre": "perro13.jpg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro13.jpg"
   },
   {
-    "nombre":"perro16.jpg",
-    "etiqueta":"perro",
-    "url":"https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro16.jpg"
+    "nombre": "perro14.jpg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro14.jpg"
+  },
+  {
+    "nombre": "perro15.jpg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro15.jpg"
+  },
+  {
+    "nombre": "perro16.jpg",
+    "etiqueta": "perro",
+    "url": "https://raw.githubusercontent.com/MiguelAHR/dataset-gatos-perros/main/perro/perro16.jpg"
   }
 ]
